@@ -1,0 +1,10 @@
+grant {
+    permission java.net.SocketPermission "*:1024-65535", "connect,accept,resolve";
+    permission java.net.SocketPermission "*:80", "connect";
+    permission java.awt.AWTPermission "accessEventQueue";
+    permission java.awt.AWTPermission "showWindowWithoutWarningBanner";
+  permission java.util.PropertyPermission "user.home", "read";
+  permission java.io.FilePermission "${user.home}/text.txt", "write";
+  permission java.io.FilePermission "${user.home}/text2.txt", "read";
+
+};
