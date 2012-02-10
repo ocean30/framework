@@ -1,6 +1,6 @@
 package com.banclogix.thread;
 
-public class TimeoutTest {
+public class Timeoutest1 {
 
 	/**
 	 * @param args

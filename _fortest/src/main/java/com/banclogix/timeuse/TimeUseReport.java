@@ -44,13 +44,13 @@ public class TimeUseReport {
 		start = System.nanoTime() ;
 		log.info(TimeUseReport.class + "log execute.");
 		end = System.nanoTime() - start ;
-		System.out.println("log4j end time: " + end);
+		System.out.println("log4j end time: " + end + " nanosecond.");
 		
 		//log4j just string result: 116666 nano ~ 117 mill
 		start = System.nanoTime() ;
 		log.info("log execute.");
 		end = System.nanoTime() - start ;
-		System.out.println("log4j end time: " + end);
+		System.out.println("log4j use time: " + end + " nanosecond.");
 		
 		//while condition result: 362 nano ~ 0.36 mill 
 		boolean flag1 = false ;
@@ -58,7 +58,13 @@ public class TimeUseReport {
 		while(flag1){
 		}
 		end = System.nanoTime() - start ;
-		System.out.println("while condition end time: " + end);
+		System.out.println("while condition use time: " + end + " nanosecond.");
+		
+		//
+		start = System.nanoTime() ;
+//		end = System.currentTimeMillis();
+		end = System.nanoTime() - start ;
+		System.out.println("CurrentTimeMillis use time: " + end + " nanosecond.");
 	}
 
 }
