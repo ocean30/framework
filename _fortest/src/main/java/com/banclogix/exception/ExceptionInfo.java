@@ -15,14 +15,23 @@ public class ExceptionInfo {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		try{
-			throw new NullPointerException();
-		}catch(Exception e){
-			e.printStackTrace();
-			logger.error(e +" " + e.getMessage());
-			logger.error(e.toString());
+		
+		new ExceptionInfo().new lookException().exception() ;
+		
+	}
+	
+	class lookException{
+		public void exception(){
+			try{
+				throw new NullPointerException();
+			}catch(Exception e){
+				e.printStackTrace();
+				logger.error(e +" " + e.getMessage());
+				logger.error(e +" " + e.getLocalizedMessage());
+				logger.error(e.toString());
+				logger.error(""+e+" in "+this);
+			}
 		}
-
 	}
 
 }
