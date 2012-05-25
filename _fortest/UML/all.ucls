@@ -1,25 +1,25 @@
 <class-diagram version="1.0.7" icons="true" automaticImage="PNG" always-add-relationships="true" generalizations="true" 
   realizations="true" associations="true" dependencies="true" nesting-relationships="true">  
-  <class id="1" corner="BOTTOM_RIGHT" language="java" name="com.banclogix.observer.EventSource" project="_fortest" 
-    file="/_fortest/src/main/java/com/banclogix/observer/EventSource.java" binary="false">    
+  <class id="1" corner="BOTTOM_RIGHT" language="java" name="com.ocean.observer.EventSource" project="_fortest" 
+    file="/_fortest/src/main/java/com/ocean/observer/EventSource.java" binary="false">    
     <position height="-1" width="-1" x="156" y="93"/>    
-    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+    <display autosize="true" stereotype="false" package="true" initial-value="true" signature="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true"/>      
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
   </class>  
-  <class id="2" corner="BOTTOM_RIGHT" language="java" name="com.banclogix.observer.MyApp" project="_fortest" 
-    file="/_fortest/src/main/java/com/banclogix/observer/MyApp.java" binary="false">    
+  <class id="2" corner="BOTTOM_RIGHT" language="java" name="com.ocean.observer.MyApp" project="_fortest" 
+    file="/_fortest/src/main/java/com/ocean/observer/MyApp.java" binary="false">    
     <position height="-1" width="-1" x="345" y="106"/>    
-    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+    <display autosize="true" stereotype="false" package="true" initial-value="true" signature="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true"/>      
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
   </class>  
-  <class id="3" corner="BOTTOM_RIGHT" language="java" name="com.banclogix.observer.ResponseHandler" project="_fortest" 
-    file="/_fortest/src/main/java/com/banclogix/observer/ResponseHandler.java" binary="false">    
+  <class id="3" corner="BOTTOM_RIGHT" language="java" name="com.ocean.observer.ResponseHandler" project="_fortest" 
+    file="/_fortest/src/main/java/com/ocean/observer/ResponseHandler.java" binary="false">    
     <position height="-1" width="-1" x="558" y="108"/>    
-    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+    <display autosize="true" stereotype="false" package="true" initial-value="true" signature="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true"/>      
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
@@ -32,7 +32,8 @@
     <end type="SOURCE" refId="2"/>    
     <end type="TARGET" refId="3"/>  
   </dependency>  
-  <classifier-display autosize="true" package="true" initial-value="true" signature="true" visibility="true">    
+  <classifier-display autosize="true" stereotype="false" package="true" initial-value="true" signature="true" 
+    visibility="true">    
     <attributes public="true" package="true" protected="true" private="true"/>    
     <operations public="true" package="true" protected="true" private="true"/>  
   </classifier-display>  

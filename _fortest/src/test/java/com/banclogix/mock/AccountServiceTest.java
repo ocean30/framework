@@ -1,5 +1,8 @@
 package com.banclogix.mock;
 
+import com.ocean.mock.Account;
+import com.ocean.mock.AccountService;
+
 import junit.framework.TestCase;
 
 public class AccountServiceTest extends TestCase {

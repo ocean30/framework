@@ -2,6 +2,9 @@ package com.banclogix.mock;
 
 import java.util.Hashtable;
 
+import com.ocean.mock.Account;
+import com.ocean.mock.AccountManager;
+
 public class MockAccountManager implements AccountManager {
     
     private Hashtable<String, Account> accounts = new Hashtable<String, Account>();
