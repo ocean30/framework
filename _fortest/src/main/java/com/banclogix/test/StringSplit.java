@@ -12,5 +12,7 @@ public class StringSplit {
 	public static void main(String[] args){
 		String str = "Hello world.";
 		logger.info(new String(str.getBytes(),2,4));
+		String str1 = "";
+		logger.info(str1.length());
 	}
 }

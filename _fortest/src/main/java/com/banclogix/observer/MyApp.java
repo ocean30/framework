@@ -11,7 +11,7 @@ public class MyApp {
  
         // subscribe the observer to the event source
         evSrc.addObserver( respHandler );
-        evSrc.addObserver( respHandler );
+//        evSrc.addObserver( respHandler );
  
         // starts the event thread
         Thread thread = new Thread(evSrc);

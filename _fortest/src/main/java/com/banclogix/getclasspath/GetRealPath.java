@@ -19,7 +19,7 @@ public class GetRealPath {
 		//相对路径，包的根目录
 //		file:/D:/git/git/trunk/_fortest/target/classes/			可直接在explorer打开的路径URL,可用在new URL();
 //		/D:/git/git/trunk/_fortest/target/classes/				无法在explorer打开的路径，可用在new File()
-		System.out.println(GetRealPath.class.getResource("/"));
+		System.out.println(GetRealPath.class.getResource("/"));		//'\u002f'
 		System.out.println(GetRealPath.class.getResource("/").getPath());
 		
 //		Map<String, String> env = System.getenv();
