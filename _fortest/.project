@@ -45,10 +45,5 @@
 			<type>1</type>
 			<location>D:/Program Files/springsource/maven-2.2.1.RELEASE/conf/settings.xml</location>
 		</link>
-		<link>
-			<name>_link/user_settings.xml</name>
-			<type>1</type>
-			<location>C:/Users/zhengzh/.m2/settings.xml</location>
-		</link>
 	</linkedResources>
 </projectDescription>
