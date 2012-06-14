@@ -1,0 +1,900 @@
+17:46:24.667 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 1
+17:46:24.778 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 2
+17:46:24.878 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 3
+17:46:24.978 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 4
+17:46:25.078 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 5
+17:46:25.178 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 6
+17:46:25.278 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 7
+17:46:25.378 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 8
+17:46:25.494 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 9
+17:46:25.594 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 10
+17:46:25.694 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 11
+17:46:25.794 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 12
+17:46:25.894 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 13
+17:46:25.994 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 14
+17:46:26.094 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 15
+17:46:26.194 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 16
+17:46:26.295 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 17
+17:46:26.395 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 18
+17:46:26.495 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 19
+17:46:26.595 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 20
+17:46:26.695 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 21
+17:46:26.795 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 22
+17:46:26.895 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 23
+17:46:26.995 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 24
+17:46:27.095 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 25
+17:46:27.195 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 26
+17:46:27.295 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 27
+17:46:27.395 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 28
+17:46:27.495 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 29
+17:46:27.595 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 30
+17:46:27.695 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 31
+17:46:27.795 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 32
+17:46:27.895 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 33
+17:46:27.995 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 34
+17:46:28.095 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 35
+17:46:28.195 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 36
+17:46:28.295 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 37
+17:46:28.395 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 38
+17:46:28.495 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 39
+17:46:28.595 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 40
+17:46:28.695 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 41
+17:46:28.795 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 42
+17:46:28.895 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 43
+17:46:28.995 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 44
+17:46:29.095 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 45
+17:46:29.195 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 46
+17:46:29.295 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 47
+17:46:29.395 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 48
+17:46:29.496 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 49
+17:46:29.596 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 50
+17:46:29.696 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 51
+17:46:29.796 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 52
+17:46:29.896 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 53
+17:46:29.996 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 54
+17:46:30.096 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 55
+17:46:30.196 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 56
+17:46:30.296 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 57
+17:46:30.396 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 58
+17:46:30.496 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 59
+17:46:30.596 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 60
+17:46:30.696 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 61
+17:46:30.796 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 62
+17:46:30.896 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 63
+17:46:30.996 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 64
+17:46:31.096 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 65
+17:46:31.196 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 66
+17:46:31.296 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 67
+17:46:31.396 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 68
+17:46:31.496 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 69
+17:46:31.596 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 70
+17:46:31.696 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 71
+17:46:31.796 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 72
+17:46:31.897 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 73
+17:46:31.997 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 74
+17:46:32.097 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 75
+17:46:32.197 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 76
+17:46:32.297 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 77
+17:46:32.397 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 78
+17:46:32.497 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 79
+17:46:32.597 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 80
+17:46:32.698 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 81
+17:46:32.799 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 82
+17:46:32.899 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 83
+17:46:32.999 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 84
+17:46:33.099 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 85
+17:46:33.199 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 86
+17:46:33.299 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 87
+17:46:33.399 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 88
+17:46:33.499 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 89
+17:46:33.599 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 90
+17:46:33.699 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 91
+17:46:33.799 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 92
+17:46:33.899 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 93
+17:46:33.999 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 94
+17:46:34.099 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 95
+17:46:34.199 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 96
+17:46:34.299 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 97
+17:46:34.399 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 98
+17:46:34.499 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 99
+17:46:34.599 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 100
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.209 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53003] closed.
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.210 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52977] closed.
+17:47:29.210 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52984] closed.
+17:47:29.210 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52997] closed.
+17:47:29.209 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52951] closed.
+17:47:29.209 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52987] closed.
+17:47:29.207 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.207 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.207 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.207 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.207 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.207 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.207 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.207 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.207 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.207 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.207 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.207 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.207 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.214 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52993] closed.
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.215 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52939] closed.
+17:47:29.216 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52963] closed.
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52948] closed.
+17:47:29.217 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52937] closed.
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.206 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.222 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52955] closed.
+17:47:29.222 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52949] closed.
+17:47:29.222 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52957] closed.
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.223 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52994] closed.
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.205 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:47:29.225 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53018] closed.
+17:47:29.225 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52996] closed.
+17:47:29.225 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53021] closed.
+17:47:29.226 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53023] closed.
+17:47:29.226 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52959] closed.
+17:47:29.227 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53022] closed.
+17:47:29.227 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53026] closed.
+17:47:29.224 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53014] closed.
+17:47:29.224 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53006] closed.
+17:47:29.228 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52960] closed.
+17:47:29.224 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53010] closed.
+17:47:29.224 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52946] closed.
+17:47:29.223 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53002] closed.
+17:47:29.228 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52964] closed.
+17:47:29.223 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52998] closed.
+17:47:29.229 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52943] closed.
+17:47:29.222 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53019] closed.
+17:47:29.229 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52944] closed.
+17:47:29.221 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53011] closed.
+17:47:29.221 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53015] closed.
+17:47:29.221 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53016] closed.
+17:47:29.221 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53007] closed.
+17:47:29.220 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52975] closed.
+17:47:29.220 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52973] closed.
+17:47:29.220 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52927] closed.
+17:47:29.220 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52936] closed.
+17:47:29.219 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52933] closed.
+17:47:29.231 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52995] closed.
+17:47:29.219 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52934] closed.
+17:47:29.231 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52950] closed.
+17:47:29.219 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52932] closed.
+17:47:29.232 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52952] closed.
+17:47:29.232 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53000] closed.
+17:47:29.232 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52974] closed.
+17:47:29.218 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52966] closed.
+17:47:29.233 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52978] closed.
+17:47:29.218 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52931] closed.
+17:47:29.218 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52930] closed.
+17:47:29.218 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52928] closed.
+17:47:29.217 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52929] closed.
+17:47:29.234 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53004] closed.
+17:47:29.217 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52938] closed.
+17:47:29.216 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52965] closed.
+17:47:29.216 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52935] closed.
+17:47:29.216 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52968] closed.
+17:47:29.234 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53008] closed.
+17:47:29.215 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52940] closed.
+17:47:29.215 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52971] closed.
+17:47:29.215 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52941] closed.
+17:47:29.235 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52942] closed.
+17:47:29.235 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53017] closed.
+17:47:29.214 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52990] closed.
+17:47:29.236 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53012] closed.
+17:47:29.214 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52969] closed.
+17:47:29.213 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52967] closed.
+17:47:29.213 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52983] closed.
+17:47:29.213 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52989] closed.
+17:47:29.212 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52985] closed.
+17:47:29.212 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52947] closed.
+17:47:29.212 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52979] closed.
+17:47:29.212 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52981] closed.
+17:47:29.211 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52953] closed.
+17:47:29.211 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52976] closed.
+17:47:29.211 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52980] closed.
+17:47:29.236 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52954] closed.
+17:47:29.234 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52986] closed.
+17:47:29.234 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53013] closed.
+17:47:29.233 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52982] closed.
+17:47:29.233 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53009] closed.
+17:47:29.233 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53005] closed.
+17:47:29.232 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53001] closed.
+17:47:29.231 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52999] closed.
+17:47:29.231 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52992] closed.
+17:47:29.231 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52988] closed.
+17:47:29.230 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52991] closed.
+17:47:29.230 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52970] closed.
+17:47:29.230 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52972] closed.
+17:47:29.229 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52945] closed.
+17:47:29.228 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52956] closed.
+17:47:29.228 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52962] closed.
+17:47:29.228 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52961] closed.
+17:47:29.227 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53024] closed.
+17:47:29.227 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53020] closed.
+17:47:29.226 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=52958] closed.
+17:47:29.226 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53025] closed.
+17:49:01.394 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 1
+17:49:01.497 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 2
+17:49:01.597 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 3
+17:49:01.697 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 4
+17:49:01.797 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 5
+17:49:01.898 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 6
+17:49:01.998 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 7
+17:49:02.098 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 8
+17:49:02.199 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 9
+17:49:02.299 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 10
+17:49:02.399 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 11
+17:49:02.499 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 12
+17:49:02.599 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 13
+17:49:02.699 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 14
+17:49:02.799 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 15
+17:49:02.899 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 16
+17:49:03.000 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 17
+17:49:03.100 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 18
+17:49:03.200 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 19
+17:49:03.300 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 20
+17:49:03.400 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 21
+17:49:03.500 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 22
+17:49:03.600 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 23
+17:49:03.700 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 24
+17:49:03.800 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 25
+17:49:03.900 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 26
+17:49:04.000 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 27
+17:49:04.100 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 28
+17:49:04.200 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 29
+17:49:04.300 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 30
+17:49:04.400 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 31
+17:49:04.500 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 32
+17:49:04.600 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 33
+17:49:04.700 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 34
+17:49:04.800 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 35
+17:49:04.900 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 36
+17:49:05.000 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 37
+17:49:05.100 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 38
+17:49:05.200 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 39
+17:49:05.300 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 40
+17:49:05.400 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 41
+17:49:05.500 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 42
+17:49:05.600 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 43
+17:49:05.700 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 44
+17:49:05.800 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 45
+17:49:05.900 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 46
+17:49:06.000 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 47
+17:49:06.100 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 48
+17:49:06.200 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 49
+17:49:06.300 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 50
+17:49:06.400 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 51
+17:49:06.500 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 52
+17:49:06.600 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 53
+17:49:06.700 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 54
+17:49:06.800 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 55
+17:49:06.900 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 56
+17:49:07.000 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 57
+17:49:07.100 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 58
+17:49:07.200 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 59
+17:49:07.300 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 60
+17:49:07.400 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 61
+17:49:07.500 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 62
+17:49:07.600 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 63
+17:49:07.700 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 64
+17:49:07.800 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 65
+17:49:07.900 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 66
+17:49:08.000 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 67
+17:49:08.100 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 68
+17:49:08.200 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 69
+17:49:08.300 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 70
+17:49:08.400 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 71
+17:49:08.500 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 72
+17:49:08.600 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 73
+17:49:08.700 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 74
+17:49:08.800 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 75
+17:49:08.900 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 76
+17:49:09.000 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 77
+17:49:09.100 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 78
+17:49:09.200 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 79
+17:49:09.300 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 80
+17:49:09.400 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 81
+17:49:09.500 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 82
+17:49:09.600 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 83
+17:49:09.700 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 84
+17:49:09.800 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 85
+17:49:09.900 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 86
+17:49:10.000 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 87
+17:49:10.100 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 88
+17:49:10.200 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 89
+17:49:10.300 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 90
+17:49:10.400 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 91
+17:49:10.500 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 92
+17:49:10.600 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 93
+17:49:10.700 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 94
+17:49:10.800 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 95
+17:49:10.900 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 96
+17:49:11.000 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 97
+17:49:11.100 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 98
+17:49:11.200 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 99
+17:49:11.300 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 100
+17:49:53.244 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.247 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53069] closed.
+17:49:53.248 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.248 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.248 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.248 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.249 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.248 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.249 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53033] closed.
+17:49:53.250 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53034] closed.
+17:49:53.250 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.252 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.248 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.248 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.252 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53119] closed.
+17:49:53.248 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.248 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.248 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.253 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53031] closed.
+17:49:53.252 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.252 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.252 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.252 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53042] closed.
+17:49:53.252 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.252 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.252 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.254 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53028] closed.
+17:49:53.252 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.252 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.252 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.252 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.252 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.256 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53046] closed.
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.256 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53112] closed.
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.257 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53107] closed.
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.257 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53116] closed.
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53030] closed.
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.260 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53115] closed.
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.262 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53125] closed.
+17:49:53.262 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53126] closed.
+17:49:53.263 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53053] closed.
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.263 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53076] closed.
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.264 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53080] closed.
+17:49:53.264 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53067] closed.
+17:49:53.264 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53070] closed.
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.265 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53074] closed.
+17:49:53.251 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.266 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53077] closed.
+17:49:53.266 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53062] closed.
+17:49:53.266 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53088] closed.
+17:49:53.266 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53061] closed.
+17:49:53.267 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53075] closed.
+17:49:53.267 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53078] closed.
+17:49:53.250 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.250 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.250 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.250 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.268 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53064] closed.
+17:49:53.268 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53065] closed.
+17:49:53.268 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53082] closed.
+17:49:53.250 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.269 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53096] closed.
+17:49:53.250 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.250 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.250 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.270 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53093] closed.
+17:49:53.270 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53086] closed.
+17:49:53.270 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53087] closed.
+17:49:53.270 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53090] closed.
+17:49:53.271 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53097] closed.
+17:49:53.271 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53091] closed.
+17:49:53.250 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.250 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.250 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.250 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.249 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.249 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.272 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53101] closed.
+17:49:53.273 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53039] closed.
+17:49:53.273 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53105] closed.
+17:49:53.273 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53108] closed.
+17:49:53.274 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53054] closed.
+17:49:53.274 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53041] closed.
+17:49:53.249 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.249 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.274 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53048] closed.
+17:49:53.249 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.249 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:49:53.248 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53029] closed.
+17:49:53.275 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53040] closed.
+17:49:53.275 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53043] closed.
+17:49:53.272 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53104] closed.
+17:49:53.272 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53094] closed.
+17:49:53.276 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53056] closed.
+17:49:53.276 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53045] closed.
+17:49:53.272 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53100] closed.
+17:49:53.271 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53098] closed.
+17:49:53.271 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53095] closed.
+17:49:53.269 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53083] closed.
+17:49:53.277 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53058] closed.
+17:49:53.269 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53060] closed.
+17:49:53.267 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53092] closed.
+17:49:53.265 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53071] closed.
+17:49:53.278 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53068] closed.
+17:49:53.265 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53057] closed.
+17:49:53.265 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53084] closed.
+17:49:53.263 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53063] closed.
+17:49:53.262 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53089] closed.
+17:49:53.262 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53123] closed.
+17:49:53.261 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53122] closed.
+17:49:53.261 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53118] closed.
+17:49:53.279 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53085] closed.
+17:49:53.261 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53121] closed.
+17:49:53.279 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53059] closed.
+17:49:53.260 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53117] closed.
+17:49:53.260 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53079] closed.
+17:49:53.259 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53120] closed.
+17:49:53.259 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53114] closed.
+17:49:53.259 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53110] closed.
+17:49:53.258 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53113] closed.
+17:49:53.258 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53111] closed.
+17:49:53.258 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53102] closed.
+17:49:53.256 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53103] closed.
+17:49:53.255 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53099] closed.
+17:49:53.255 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53109] closed.
+17:49:53.255 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53106] closed.
+17:49:53.255 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53036] closed.
+17:49:53.254 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53032] closed.
+17:49:53.253 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53124] closed.
+17:49:53.253 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53035] closed.
+17:49:53.253 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53027] closed.
+17:49:53.280 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53044] closed.
+17:49:53.280 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53037] closed.
+17:49:53.280 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53038] closed.
+17:49:53.279 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53072] closed.
+17:49:53.279 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53055] closed.
+17:49:53.278 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53066] closed.
+17:49:53.278 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53081] closed.
+17:49:53.278 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53051] closed.
+17:49:53.277 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53047] closed.
+17:49:53.277 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53073] closed.
+17:49:53.276 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53050] closed.
+17:49:53.276 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53049] closed.
+17:49:53.275 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53052] closed.
+17:50:26.110 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 1
+17:50:26.213 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 2
+17:50:26.313 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 3
+17:50:26.413 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 4
+17:50:26.513 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 5
+17:50:26.613 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 6
+17:50:26.713 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 7
+17:50:26.813 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 8
+17:50:26.914 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 9
+17:50:27.014 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 10
+17:50:27.114 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 11
+17:50:27.214 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 12
+17:50:27.314 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 13
+17:50:27.414 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 14
+17:50:27.514 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 15
+17:50:27.614 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 16
+17:50:27.715 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 17
+17:50:27.815 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 18
+17:50:27.915 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 19
+17:50:28.015 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 20
+17:50:28.115 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 21
+17:50:28.215 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 22
+17:50:28.315 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 23
+17:50:28.415 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 24
+17:50:28.515 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 25
+17:50:28.615 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 26
+17:50:28.715 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 27
+17:50:28.815 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 28
+17:50:28.915 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 29
+17:50:29.015 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 30
+17:50:29.115 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 31
+17:50:29.215 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 32
+17:50:29.315 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 33
+17:50:29.415 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 34
+17:50:29.515 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 35
+17:50:29.615 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 36
+17:50:29.715 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 37
+17:50:29.815 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 38
+17:50:29.915 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 39
+17:50:30.015 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 40
+17:50:30.115 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 41
+17:50:30.215 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 42
+17:50:30.315 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 43
+17:50:30.415 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 44
+17:50:30.515 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 45
+17:50:30.615 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 46
+17:50:30.715 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 47
+17:50:30.815 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 48
+17:50:30.915 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 49
+17:50:31.015 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 50
+17:50:31.115 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 51
+17:50:31.215 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 52
+17:50:31.315 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 53
+17:50:31.415 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 54
+17:50:31.515 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 55
+17:50:31.615 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 56
+17:50:31.715 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 57
+17:50:31.815 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 58
+17:50:31.916 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 59
+17:50:32.016 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 60
+17:50:32.116 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 61
+17:50:32.216 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 62
+17:50:32.316 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 63
+17:50:32.416 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 64
+17:50:32.516 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 65
+17:50:32.616 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 66
+17:50:32.716 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 67
+17:50:32.816 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 68
+17:50:32.916 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 69
+17:50:33.016 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 70
+17:50:33.116 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 71
+17:50:33.216 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 72
+17:50:33.316 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 73
+17:50:33.416 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 74
+17:50:33.516 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 75
+17:50:33.616 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 76
+17:50:33.716 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 77
+17:50:33.816 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 78
+17:50:33.916 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 79
+17:50:34.016 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 80
+17:50:34.116 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 81
+17:50:34.216 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 82
+17:50:34.316 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 83
+17:50:34.416 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 84
+17:50:34.516 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 85
+17:50:34.616 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 86
+17:50:34.716 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 87
+17:50:34.816 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 88
+17:50:34.916 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 89
+17:50:35.016 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 90
+17:50:35.116 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 91
+17:50:35.216 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 92
+17:50:35.316 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 93
+17:50:35.416 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 94
+17:50:35.516 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 95
+17:50:35.616 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 96
+17:50:35.716 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 97
+17:50:35.816 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 98
+17:50:35.916 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 99
+17:50:36.016 INFO main testkdf.KDFMaxConnection.main(35) | threadNum: 100
+17:50:51.105 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.108 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53185] closed.
+17:50:51.125 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.126 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53127] closed.
+17:50:51.126 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.126 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.126 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.131 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53149] closed.
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.126 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.126 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.126 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.126 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.126 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.132 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53163] closed.
+17:50:51.132 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53161] closed.
+17:50:51.131 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53145] closed.
+17:50:51.131 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53136] closed.
+17:50:51.130 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53159] closed.
+17:50:51.130 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53164] closed.
+17:50:51.133 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53131] closed.
+17:50:51.130 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53180] closed.
+17:50:51.133 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53133] closed.
+17:50:51.130 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.130 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.130 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.130 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.130 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.130 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.130 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.135 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53142] closed.
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.137 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53157] closed.
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.137 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53147] closed.
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.129 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.138 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53132] closed.
+17:50:51.129 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53190] closed.
+17:50:51.128 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53128] closed.
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.139 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53214] closed.
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.139 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53193] closed.
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.140 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53151] closed.
+17:50:51.141 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53189] closed.
+17:50:51.141 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53155] closed.
+17:50:51.141 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53195] closed.
+17:50:51.141 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53191] closed.
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.143 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53196] closed.
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.144 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53199] closed.
+17:50:51.144 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53202] closed.
+17:50:51.144 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53207] closed.
+17:50:51.145 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53210] closed.
+17:50:51.145 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53209] closed.
+17:50:51.145 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53211] closed.
+17:50:51.145 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53213] closed.
+17:50:51.146 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53215] closed.
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.147 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53175] closed.
+17:50:51.147 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53221] closed.
+17:50:51.147 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53200] closed.
+17:50:51.147 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53222] closed.
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.148 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53225] closed.
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.148 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53204] closed.
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.149 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53223] closed.
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.128 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.149 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53144] closed.
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.150 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53158] closed.
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.127 ERROR myThread testkdf.KDFMaxConnection$ConnectionThread.run(67) | java.net.SocketException: Connection reset
+17:50:51.150 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53170] closed.
+17:50:51.150 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53216] closed.
+17:50:51.149 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53208] closed.
+17:50:51.149 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53212] closed.
+17:50:51.148 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53226] closed.
+17:50:51.146 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53218] closed.
+17:50:51.153 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53162] closed.
+17:50:51.153 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53154] closed.
+17:50:51.154 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53140] closed.
+17:50:51.146 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53217] closed.
+17:50:51.144 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53201] closed.
+17:50:51.143 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53182] closed.
+17:50:51.143 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53194] closed.
+17:50:51.142 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53177] closed.
+17:50:51.142 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53192] closed.
+17:50:51.142 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53188] closed.
+17:50:51.140 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53198] closed.
+17:50:51.139 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53205] closed.
+17:50:51.138 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53219] closed.
+17:50:51.138 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53197] closed.
+17:50:51.138 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53203] closed.
+17:50:51.137 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53206] closed.
+17:50:51.136 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53153] closed.
+17:50:51.157 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53168] closed.
+17:50:51.136 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53143] closed.
+17:50:51.136 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53139] closed.
+17:50:51.135 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53138] closed.
+17:50:51.135 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53141] closed.
+17:50:51.135 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53134] closed.
+17:50:51.158 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53186] closed.
+17:50:51.134 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53135] closed.
+17:50:51.134 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53137] closed.
+17:50:51.134 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53130] closed.
+17:50:51.158 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53183] closed.
+17:50:51.159 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53181] closed.
+17:50:51.133 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53146] closed.
+17:50:51.132 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53129] closed.
+17:50:51.159 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53184] closed.
+17:50:51.159 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53187] closed.
+17:50:51.158 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53173] closed.
+17:50:51.158 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53176] closed.
+17:50:51.158 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53172] closed.
+17:50:51.157 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53179] closed.
+17:50:51.157 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53178] closed.
+17:50:51.157 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53174] closed.
+17:50:51.156 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53160] closed.
+17:50:51.156 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53156] closed.
+17:50:51.156 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53152] closed.
+17:50:51.156 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53148] closed.
+17:50:51.155 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53169] closed.
+17:50:51.155 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53165] closed.
+17:50:51.154 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53171] closed.
+17:50:51.154 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53167] closed.
+17:50:51.154 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53166] closed.
+17:50:51.153 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53150] closed.
+17:50:51.152 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53220] closed.
+17:50:51.152 INFO myThread testkdf.KDFMaxConnection$ConnectionThread.run(70) | Socket[addr=/10.10.5.187,port=4000,localport=53224] closed.

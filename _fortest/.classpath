@@ -18,6 +18,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/zmq.jar"/>
+	<classpathentry kind="lib" path="lib/javassist.jar" sourcepath="D:/dev_lib/javassist-3.16.1-GA/src/main"/>
 	<classpathentry kind="con" path="org.eclipse.ajdt.core.ASPECTJRT_CONTAINER"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

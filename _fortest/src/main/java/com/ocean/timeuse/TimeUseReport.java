@@ -3,8 +3,8 @@ package com.ocean.timeuse;
 import org.apache.log4j.Logger;
 
 /**
- * ��¼ִ��һ��log4j����־��¼����Ҫ��ʱ��
- * ��¼ִ��һ��whileѭ���ж�����Ҫ��ʱ��
+ * 记录执行一条log4j的日志记录所需要的时间
+ * 记录执行一条while循环判断所需要的时间
  * @author zhengzh
  *
  */

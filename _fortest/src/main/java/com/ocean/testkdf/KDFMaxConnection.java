@@ -15,9 +15,9 @@ import org.apache.log4j.Logger;
 public class KDFMaxConnection {
 	private static final Logger logger = Logger.getLogger(KDFMaxConnection.class);
 
-	private static String ip = "127.0.0.1";
-	private static int port = 12000;
-	private static int maxThreadNum = 500 ;
+	private static String ip = "10.10.5.187";
+	private static int port = 4000;
+	private static int maxThreadNum = 100 ;
 	
 //	private static List<Thread> 
 
